@@ -1,2 +1,2 @@
-# Entendendo-um-Ransomware-na-Pr-tica-com-Python
+# Entendendo-um-Ransomware-na-Pratica-com-Python
 Bootcamp - Cybersegurança - DIO 
