@@ -1,2 +1,1 @@
 Olá estou sem encriptação agora!
-https://github.com/MagnoMasterson/Entendendo-um-Ransomware-na-Pratica-com-Python/blob/main/img/IMG_01.JPG?raw=true
